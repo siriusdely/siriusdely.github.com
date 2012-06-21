@@ -1,0 +1,197 @@
+html { 
+}
+body {
+  background-image : url('camellia.gif');
+  margin: 0 auto;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 20px;
+  line-height: 30px;
+  padding: 5px;
+  width: 840px;
+
+}
+header, footer, section, article {
+  display: block;
+}
+.content {
+}
+section {
+  background-color: #588f5f;
+  border-color: #ffffff;
+  /*border-style:solid;*/
+}
+#by {
+  font-style: italic;
+  margin-right: 5px;
+  font-size: 28px;
+}
+#caption {
+  position: absolute;
+  font-size: 24px;
+  margin: -135px 0 0 70px;
+}
+#path {
+  color: #b53131;
+}
+
+.date {
+  font-style: italic;
+  float: right;
+  line-height: 43px;
+  margin-right: 30px;
+}
+/*
+a {
+  color: #b83000;
+}
+h1 a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+*/
+body > header > h1 {
+  border-left: 30px solid black;
+  padding-left: 30px;
+  font-size: 201px;
+  margin: 15px 0 15px 0;
+  font-weight: normal;
+}
+.post header {
+  margin-bottom: 10px;
+}
+.post .body p:first-child {
+  margin-top: 0;
+}
+.post .body p:last-child {
+  margin-bottom: 0;
+}
+.post {
+  margin-bottom: 30px;
+}
+.post:last-child {
+  margin-bottom: 10px;
+}
+.post p {
+  margin: 10px 0;
+}
+.post .more {
+  margin-top: -10px;
+  margin-right: 30px;
+  font-style: italic;
+  text-align: right;
+}
+.more a {
+  text-decoration: none;
+}
+.more a:hover { text-decoration: underline }
+body > header {
+  display: block;
+  padding-top: 30px;
+  line-height: 180px;
+  margin-bottom: 20px;
+}
+h1, h2, h3, h4 {
+  display: inline;
+  margin: 0;
+  font-weight: 600;
+}
+ul, li {
+  list-style-type: none;
+}
+code {
+  font-family: 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
+}
+pre {
+  padding: 20px;
+}
+blockquote {
+  font-style: italic;
+}
+/*
+body > footer {
+  text-align: left;
+  margin-left: 10px;
+  font-style: italic;
+  font-size: 18px;
+  color: #888;
+}
+*/
+#disqus_thread {
+  background-color: #588f5f;
+
+}
+#dsq-comments-title h3 {
+color:#333;
+}
+
+#disqus_thread {
+padding:12px;
+margin-bottom:-10px;
+}
+
+#disqus_thread h3 {
+color:#333;
+font-weight:bold;
+font-family: Helvetica, sans-serif;
+font-size:22px;
+padding-bottom:.5em;
+}
+
+#dsq-content div.dsq-options {
+background:none;
+padding-bottom:0px;
+}
+
+#dsq-comments li.dsq-comment {
+margin-top:12px
+margin-bottom:12px;
+padding:12px;
+background:#F0F0E9;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border:1px solid #ccc;
+}
+
+#dsq-content div.dsq-post-area {
+padding:12px;
+background:#F0F0E9;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border:1px solid #ccc;
+-webkit-box-shadow: 0px 0px 10px #ECF40B;
+-moz-box-shadow: 0px 0px 10px #ECF40B;
+}
+
+#dsq-content .dsq-comment-header {
+background:none;
+}
+
+.dsq-brlink {
+display:none;
+}
+
+#dsq-content .dsq-comment-message {
+background:#fff;
+padding:10px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+
+#dsq-content #dsq-authenticate .dsq-login-buttons {
+background:none;
+background-image:none;
+margin-bottom:0;
+}
+
+#dsq-content #dsq-form-area .dsq-textarea .dsq-textarea-wrapper,
+#dsq-content #dsq-form-area .dsq-post-fields .dsq-input-wrapper {
+border: 1px solid #ccc;
+}
+
+#dsq-new-post div.dsq-request-user-info {
+background:none;
+padding-bottom:0px;
+}

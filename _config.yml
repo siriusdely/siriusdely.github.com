@@ -33,3 +33,5 @@ exclude:
 
 disqus:
     shortname: sirius-syrilo-blog
+
+google_analytics: UA-96799624-1

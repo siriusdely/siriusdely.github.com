@@ -197,7 +197,6 @@ DEPENDENCIES
   github-pages (= 130)
   jekyll-feed
   json
-  minima
 
 RUBY VERSION
    ruby 2.0.0p481

@@ -32,6 +32,6 @@ exclude:
   - Gemfile.lock
 
 disqus:
-  shortname: sirius-syrilo-blog
+  shortname: siriusdely
 
 google_analytics: UA-96799624-1

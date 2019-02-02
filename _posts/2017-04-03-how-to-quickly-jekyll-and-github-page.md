@@ -2,7 +2,7 @@
 layout:     post
 title:      "How to Quickly Start Jekyll on Github Page"
 date:       2017-04-03 16:00:00 +0700
-categories: jekyll github
+tags:       [jekyll, github]
 ---
 
 So I have decided to try [Jekyll](https://jekyllrb.com) on [my Github Page](https://siriusdely.github.io), after wanting to try it since long time before already. But It still took some-time for me to really understand what Jekyll is. Why was it?

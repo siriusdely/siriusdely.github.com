@@ -10,9 +10,9 @@ layout: default
         {{ page.date | date: "%b %-d, %Y" }}
       </time>
       {% if page.tags %} |
-      {% for tag in page.tags %}
-        <a class="post-tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
-      {% endfor %}
+        {% for tag in page.tags %}
+          <a class="post-tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
       {% endif %}
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person">

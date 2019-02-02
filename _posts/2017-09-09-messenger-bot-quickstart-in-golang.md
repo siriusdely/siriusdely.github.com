@@ -1,3 +1,7 @@
+---
+title:      "Messenger Bot Quickstart in Golang"
+---
+
 When I want to learn something new. It is much easier for me to make something out of it. Probably because my learning type is _kinestetic_, must involve physical muscle. In the case of learning coding, muscle involved is finger muscle while typing the code. Coding is not typing, but still ... typing is involved ... for now.
 
 So I decided to learn Go programming language. Intrigued by its well-known good performance, and also its built-in `async`. And also, which is another big reason, being bored by _messy_ `javascript` on `nodejs`.

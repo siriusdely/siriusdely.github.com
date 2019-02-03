@@ -1,5 +1,6 @@
 ---
 title:      "Messenger Bot Quickstart in Golang"
+tags:       [ golang, learning ]
 ---
 
 When I want to learn something new. It is much easier for me to make something out of it. Probably because my learning type is _kinestetic_, must involve physical muscle. In the case of learning coding, muscle involved is finger muscle while typing the code. Coding is not typing, but still ... typing is involved ... for now.

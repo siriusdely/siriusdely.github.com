@@ -125,3 +125,13 @@ $on-laptop:        800px;
 pre, code {
   background-color: #ddd;
 }
+
+/**
+ * Mailchimp
+ */
+#mc_embed_signup {
+  background: $white-color;
+  border-top: 1.0px solid $background-color;
+  font:       14px Helvetica, Arial, sans-serif;
+  width:      100%;
+}

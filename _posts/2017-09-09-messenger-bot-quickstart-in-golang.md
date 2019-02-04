@@ -4,11 +4,11 @@ author:     Sirius Dely
 tags:       [ golang, learning ]
 ---
 
-When I want to learn something new. It is much easier for me to make something out of it. Probably because my learning type is _kinestetic_, must involve physical muscle. In the case of learning coding, muscle involved is finger muscle while typing the code. Coding is not typing, but still ... typing is involved ... for now.
+When I want to learn something new. It is much easier for me to make something out of it. Probably because my learning type is _kinesthetic_, must involve physical muscle. In the case of learning to code, muscle involved is finger muscle while typing the code. Coding is not typing, but still ... typing is involved ... for now.
 
 So I decided to learn Go programming language. Intrigued by its well-known good performance, and also its built-in `async`. And also, which is another big reason, being bored by _messy_ `javascript` on `nodejs`.
 
-So before I was able to code in Golang, of-course I need to learn it a bit first, which involved reading. There are my reading list for Golang:
+So before I was able to code in Golang, of course, I need to learn it a bit first, which involved reading. Here is my reading list for Golang:
 
 1. [Golang Documentation](https://golang.org/doc)
 2. [A Tour of Go](https://tour.golang.org)

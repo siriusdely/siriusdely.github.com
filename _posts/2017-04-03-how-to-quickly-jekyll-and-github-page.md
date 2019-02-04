@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "How to Quickly Start Jekyll on Github Page"
+author:     Sirius Dely
 date:       2017-04-03 16:00:00 +0700
 tags:       [jekyll, github, meta]
 ---

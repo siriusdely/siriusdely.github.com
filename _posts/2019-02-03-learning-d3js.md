@@ -1,6 +1,7 @@
 ---
-title:  "Learning D3.js"
-tags: [d3js, data visualization, javascript, learning]
+title:    "Learning D3.js"
+author:   Sirius Dely
+tags:     [d3js, data visualization, javascript, learning]
 ---
 
 I have been learning [**Machine Learning**](https://www.coursera.org/learn/machine-learning) for a few months. In the process, one hard-truth struck me well: **it needs data**.

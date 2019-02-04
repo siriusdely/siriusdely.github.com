@@ -1,5 +1,6 @@
 ---
 title:      "Messenger Bot Quickstart in Golang"
+author:     Sirius Dely
 tags:       [ golang, learning ]
 ---
 

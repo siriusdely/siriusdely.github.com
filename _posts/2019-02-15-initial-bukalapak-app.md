@@ -34,7 +34,7 @@ Walaupun sebuah aplikasi telah tumbuh jauh lebih besar, seperti Bukalapak saat i
 
 (It is still true when the app has grown much bigger, even as big as current Bukalapak.)
 
-Untung tim dan individu-individu yang saat ini bekerja keras di balik aplikasi Bukalapak, saya berharap yang terbaik dalam melewati masa-masa yg tidak nyaman ini.
+Untuk tim dan individu-individu yang saat ini bekerja keras di balik aplikasi Bukalapak, saya berharap yang terbaik dalam melewati masa-masa yg tidak nyaman ini.
 
 (For the hardworking teams and persons working currently behind Bukalapak apps, I hope you folks the best through these uneasy and uncomfortable feelings and situation.)
 

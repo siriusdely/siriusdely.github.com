@@ -15,7 +15,7 @@ layout: default
       {%- endif -%}
       {% if page.tags %} |
         {% for tag in page.tags %}
-          <a class="post-tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
+          <a class="post-tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>{% unless tag == page.tags.last %}, {% endunless %}
         {% endfor %}
       {% endif %}
     </p>

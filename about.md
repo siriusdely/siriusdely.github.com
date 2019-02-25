@@ -1,42 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-I am a Software Developer for Web & Mobile Applications, who is working remotely as a Senior Engineer for Smart Walkie Pte. Ltd., a Telecommunication Company based in Singapore.
+I am a software developer for web and mobile application. I have been working professionally since 2009, and then remotely since 2016. My early years spent on working for software consultancy companies from where I gained experience from hiring & leading own team, write code, and deal with clients directly; also with extra physical office setup, admin, and offshore legalities.
 
-My main responsibility is to develop & maintain high-performance backend system for real-time voice communication app on Android & iOS. SmartWalkie is a Walkie Talkie App on custom Android phones that don’t have the limitation of regular walkie-talkies.
+Nowadays, I spend my time deepening and broadening my software development skills. I have a strong curiosity for information technology and engineering in general. I usually spend hours exploring and tinkering.
 
-I have been in Software Engineering since 2009 with familiarity on some quite diverse technology stacks. Here is a table of my stacks; based on personal preference vs. mostly used:
+Currently, I am working for a Singapore-based push-to-talk app company, whose customers include well-known hotels, taxis, and cargos. My responsibility is on the core server application for receiving and sending the voices. I have significantly improved the performance and reliability of the system with relatively minimum additional operational cost.
 
-| Rank    | Preference            | Mostly Used   |
-|:-------:|:----------------------|:------------- |
-| 1.      | Phoenix Elixir        | Nodejs        |
-| 2.      | Ruby on Rails         | Apple iOS     |
-| 3.      | Apple iOS             | Ruby on Rails |
-| 4.      | Django Python         | Android       |
-| 5.      | Nodejs (Typescript)   | Django Python |
-| 6.      | Android               | React Native  |
-| 7.      | React Native          | Phoenix Elixir|
-| 8.      | Golang                | Golang        |
-
-
-also with these supporting (or complementary) tools:
-
-  1. Mac OSX or Linux (Ubuntu)
-  2. Terminal with ZSH
-  3. Vim with Vundle
-  4. Git (Github, Gitlab, Bitbucket)
-  5. Cloud Servers (AWS, Azure, Digital Ocean, Vultr) with SSH
-  6. Docker & NGINX
-  7. Postgres, MySQL, MongoDB, Redis
-
-I, my wife, and our little baby girl are living in a small home at Bandung, West Java. We also have two dogs, an old curly white-grey shih-tzu and a tall active ginger pomeranian; both are adopted from a rescuer.
-
-Ping me at twitter [@siriusdely](https://twitter.com/siriusdely) or [linkedin.com/in/siriusdely](https://www.linkedin.com/in/siriusdely).
-
-Thank you for visiting this page.
-
-Regards,
-Sirius
+More information can be found on **[my resume](http://bit.ly/siriusdely).**

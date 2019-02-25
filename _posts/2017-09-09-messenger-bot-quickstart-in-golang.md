@@ -1,7 +1,7 @@
 ---
 title:      "Messenger Bot Quickstart in Golang"
 author:     Sirius Dely
-tags:       [ golang, learning, personal project, portfolio ]
+tags:       [ golang, learning, personal project ]
 ---
 
 When I want to learn something new. It is much easier for me to make something out of it. Probably because my learning type is _kinesthetic_, must involve physical muscle. In the case of learning to code, muscle involved is finger muscle while typing the code. Coding is not typing, but still ... typing is involved ... for now.

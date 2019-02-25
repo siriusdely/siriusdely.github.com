@@ -10,4 +10,11 @@ Nowadays, I spend my time deepening and broadening my software development skill
 
 Currently, I am working for a Singapore-based push-to-talk app company, whose customers include well-known hotels, taxis, and cargos. My responsibility is on the core server application for receiving and sending the voices. I have significantly improved the performance and reliability of the system with relatively minimum additional operational cost.
 
+
+I, my wife, and our little baby girl live in Bandung, one of Indonesia's major cities known for history, culture, and nature.
+
+![Kumi, Syl, & Sir](/assets/images/kumi-syl-sir.jpg)
+
+Thank you for visiting this site, where I share my thoughts and experiences. This site is a medium for me to learn to write.
+
 More information can be found on **[my resume](http://bit.ly/siriusdely).**

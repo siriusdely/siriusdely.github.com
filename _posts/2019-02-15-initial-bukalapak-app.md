@@ -1,7 +1,7 @@
 ---
 title:      "Bukalapak mobile app, how was it born?"
 author:     "Sirius Dely"
-tags:       [experience, project, portfolio, android, mobile app, team lead]
+tags:       [experience, portfolio, android, mobile app, team lead]
 ---
 
 Saya ikut prihatin dengan issue yang menimpa [**Achmad Zaky**](https://twitter.com/achmadzaky), [**Bukalapak**](https://bukalapak.com), dan team. Bagaimanapun juga, saya pernah turut serta urun angan dan tangan dalam mempersiapkan dan meluncurkan aplikasi [**Android Bukalapak**](https://play.google.com/store/apps/details?id=com.bukalapak.android).

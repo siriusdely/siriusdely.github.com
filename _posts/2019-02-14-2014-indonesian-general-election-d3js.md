@@ -1,7 +1,7 @@
 ---
 title:    "2014 Indonesian General Election Using D3.js"
 author:   Sirius Dely
-tags:     [javascript, d3js, data visualization, personal project, data crawling, portfolio]
+tags:     [javascript, d3js, data visualization, personal project, data crawling]
 ---
 
 [I have mentioned previously](https://siriusdely.com/learning-d3js) my primary reason to learn D3.js is for map visualization. I wanted to visualize the data of 2014 Indonesian General Election.
